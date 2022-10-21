@@ -1,0 +1,18 @@
+
+
+#Login{
+    width: 50%;
+    background-color: white;
+    padding: 40px;
+    padding-bottom: 10%;
+    box-shadow: 5px 7px 9px rgba(0, 0, 0, 0.421);
+}
+#cuerpo{
+    display: flex;
+    justify-content: center;
+    height: 85vh;
+    align-items: center;
+    
+}
+
+
